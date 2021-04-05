@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App color={`blue`} />
   </React.StrictMode>,
   document.getElementById('root')
 );
